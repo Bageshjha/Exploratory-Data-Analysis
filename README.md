@@ -104,10 +104,4 @@ The analysis reveals that:
 
 - Married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in the IT, Healthcare, and Aviation sectors, are more likely to purchase products from the Food, Clothing, and Electronics categories.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This should give users a good overview of the project and how to get started with the analysis!
